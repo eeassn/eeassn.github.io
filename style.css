@@ -43,7 +43,7 @@ article{
     float:left;
 }
 footer{
-    background: violet;
+            background: violet;
     color:white;
     text-align: center;
     font-size: 20px; display:inline-block;
@@ -67,10 +67,13 @@ ul li a:hover{
 }
 .left{
     background-color: lightgreen;
-    color:rgb(12, 11, 12);
     width:500px; height: 900px;
-    font-size: 20px; display: block;
+    display: block;
     float:left;
+}
+.center{
+    width: 700;
+    height: 900;
 }
 .right{
     width:400px;height: 900px;float: left;
